@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/config/config.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/test_user_data.xlsx" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/HTMLTestRunner.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/read_excel.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/send_email.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/log/log.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/report/report.html" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

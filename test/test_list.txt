@@ -1,0 +1,3 @@
+test_user_reg_ok
+test_login_success
+test_login_fail
